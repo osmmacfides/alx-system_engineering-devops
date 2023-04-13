@@ -1,0 +1,1 @@
+Emacs access short code
